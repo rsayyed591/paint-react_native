@@ -2,11 +2,6 @@
 
 SketchIt is a simple drawing application built with React Native, allowing users to express their creativity by drawing on a canvas using touch gestures.
 
-## Screenshots
-
-![Screenshot 1](./assets/ss/img1.jpg)
-![Screenshot 2](./assets/ss/img2.jpg)
-
 ## Features
 
 - **Canvas Interaction**: Users can draw freely on the canvas using touch gestures.
@@ -45,6 +40,11 @@ SketchIt is a simple drawing application built with React Native, allowing users
 2. Adjust drawing attributes such as color and stroke width using the toolbar.
 3. Clear the canvas when needed.
 4. Enjoy expressing your creativity with SketchIt!
+
+## Screenshots
+
+![Screenshot 1](./assets/ss/img1.jpg)
+![Screenshot 2](./assets/ss/img2.jpg)
 
 ## Credits
 
