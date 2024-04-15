@@ -10,6 +10,13 @@ SketchIt is a simple drawing application built with React Native, allowing users
 - **Stroke Width Adjustment**: Adjust the thickness of the drawing stroke with ease.
 - **Component Coordination**: The App Component manages state for drawing paths, color selection, stroke width, and the visibility of stroke options.
 
+## Screenshots
+
+<div style={display:'flex'}>
+<img src="./assets/ss/img1.jpg" alt="Screenshot 1" width="300" />
+<img src="./assets/ss/img2.jpg" alt="Screenshot 2" width="300" />
+</div>
+
 ## Installation
 
 1. Clone the repository:
@@ -40,11 +47,6 @@ SketchIt is a simple drawing application built with React Native, allowing users
 2. Adjust drawing attributes such as color and stroke width using the toolbar.
 3. Clear the canvas when needed.
 4. Enjoy expressing your creativity with SketchIt!
-
-## Screenshots
-
-![Screenshot 1](./assets/ss/img1.jpg)
-![Screenshot 2](./assets/ss/img2.jpg)
 
 ## Credits
 
